@@ -83,5 +83,4 @@ Your report should contain:
 
 ![WhatsApp Image 2026-03-18 at 11 19 48 AM (1)](https://github.com/user-attachments/assets/a956acff-2388-45b6-aeac-51b0ca3daedf)
 ## Result
-Thus the attenuation-limited fiber length based on the power budget equation.  
-- Simulate the resulting system is verified.
+Thus the attenuation-limited fiber length based on the power budget equation.Simulation of the resulting system is verified.

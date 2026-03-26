@@ -78,6 +78,14 @@ Your report should contain:
 - **Screenshots** of layout and results (including eye diagrams)  
 
 - **Written Summary** of observations and explanations of differences.
+
+## Block Diagram
+<img width="495" height="260" alt="image" src="https://github.com/user-attachments/assets/c3cd5adc-b57a-45a1-a485-86a0738d7c94" />
+
+## Model Graph
+<img width="900" height="311" alt="image" src="https://github.com/user-attachments/assets/efc5b2a8-4827-4247-a5aa-a87065f6e1c8" />
+
+
 ## Tabulation
 ![WhatsApp Image 2026-03-18 at 11 19 48 AM](https://github.com/user-attachments/assets/fa7f9814-cf68-4526-8f1a-7b00fe38cdba)
 
